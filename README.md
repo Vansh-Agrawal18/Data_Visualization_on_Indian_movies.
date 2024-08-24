@@ -1,4 +1,4 @@
-### Indian Movies Data Visualization###
+### Indian Movies Data Visualization
 # Overview
 This project provides a comprehensive data visualization analysis of Indian movies. Using Python libraries, the analysis explores various aspects of movie data, including relationships between movie ratings, duration, votes, and language. The dataset has been cleaned and processed to ensure accurate insights.
 
